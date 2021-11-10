@@ -1,0 +1,36 @@
+body {
+    display:flex;
+    flex-direction:column;
+}
+header {
+    display:flex;
+}
+
+.header {
+    display:flex;
+    justify-content:space-between;
+}
+.headerlinks {
+    display:flex;
+}
+
+.headerlogo {
+
+}
+
+.content2 {
+    display:flex;
+    gap:8px;
+    justify-content:center;
+}
+
+.footer {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.block {
+    display:flex;
+    flex-direction:column;
+}
