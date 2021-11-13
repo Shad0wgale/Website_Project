@@ -1,6 +1,9 @@
 body {
     display:flex;
     flex-direction:column;
+    font-family:hero, sans-serif;
+    font-style:normal;
+    font-weight:900;
 }
 header {
     display:flex;
@@ -18,10 +21,23 @@ header {
 
 }
 
+.content1 {
+    color:white;
+    background-color:#1F2937;
+    font-size:48px;
+    font-weight: 1000;
+    display:flex;
+}
 .content2 {
     display:flex;
     gap:8px;
     justify-content:center;
+}
+
+.content3 {
+    font-size: 36px;
+    color:#1F2937;
+    background-color:#E5E7Eb;
 }
 
 .footer {
@@ -30,7 +46,7 @@ header {
     align-items:center;
 }
 
-.block {
+.box {
     display:flex;
-    flex-direction:column;
+    flex-direction:column-reverse;
 }
