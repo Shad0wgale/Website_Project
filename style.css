@@ -14,6 +14,7 @@ header {
     display:flex;
     justify-content:space-between;
     background-color:#1F2937;
+    padding:5%;
 }
 .headerlinks {
     display:flex;
@@ -31,24 +32,28 @@ header {
     display:flex;
     justify-content: center;
     align-items: center;
+    padding:5%;
 }
 .content2 {
     display:flex;
     gap:8px;
     justify-content:center;
     flex-direction:column;
+    padding:5%;
 }
 
 .content3 {
     font-size: 36px;
     color:#1F2937;
     background-color:#E5E7Eb;
+    padding:5%;
 }
 
 .content4 {
     display:flex;
     justify-content: center;
     align-items: center;
+    padding:5%;
 }
 
 .footer {
