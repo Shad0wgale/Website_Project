@@ -106,3 +106,8 @@ a {
 .advertisement {
     text-align:center;
 }
+
+ol {
+    display:flex;
+    gap:80px;
+}
