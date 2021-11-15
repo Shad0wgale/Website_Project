@@ -3,7 +3,7 @@ body {
     flex-direction:column;
     font-family:hero, sans-serif;
     font-style:normal;
-    font-weight:900;
+    font-weight:light;
 }
 header {
     display:flex;
@@ -55,7 +55,7 @@ header {
     justify-content: center;
     align-items: center;
     margin: 5%;
-    background-color: blue;
+    background-color:#3882F6;
     border-radius:10px;
 }
 
