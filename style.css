@@ -30,6 +30,7 @@ header {
     font-weight: 1000;
     display:flex;
     justify-content: center;
+    align-items: center;
 }
 .content2 {
     display:flex;
