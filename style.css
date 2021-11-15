@@ -91,6 +91,7 @@ a {
     height:100px;
     width:auto;
     border-radius:10px;
+    flex:1 0 auto;
 }
 
 .imginfo {
