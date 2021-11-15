@@ -87,13 +87,14 @@ a {
     display:flex;
     gap:10px;
     justify-content:center;
+    flex:0 0 0;
 }
 
 .boximg {
     height:100px;
     width:auto;
     border-radius:10px;
-    flex:1 0 auto;
+    flex:0 0 0;
     border-style:solid;
     border-color:#3882F6;
 }
