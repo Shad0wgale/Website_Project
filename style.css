@@ -45,6 +45,12 @@ header {
     background-color:#E5E7Eb;
 }
 
+.content4 {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .footer {
     display:flex;
     justify-content:center;
