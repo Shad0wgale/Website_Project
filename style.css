@@ -27,6 +27,7 @@ header {
     font-size:48px;
     font-weight: 1000;
     display:flex;
+    justify-content: center;
 }
 .content2 {
     display:flex;
