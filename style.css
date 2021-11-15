@@ -101,6 +101,9 @@ a {
     display:flex;
     justify-content:center;
     padding:2%;
+    font-size:36px;
+    font-weight:bolder;
+    color:#1F2937
 }
 
 .awesomeimg {
