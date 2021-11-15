@@ -50,7 +50,7 @@ header {
 
 .content4 {
     display:flex;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
     margin: 5%;
     background-color:#3882F6;
