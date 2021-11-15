@@ -20,7 +20,9 @@ header {
 }
 
 .headerlogo {
-
+    align-items:center;
+    color:white;
+    
 }
 
 .content1 {
