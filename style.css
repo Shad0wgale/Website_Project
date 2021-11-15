@@ -122,4 +122,5 @@ ol {
 .topmargin {
     padding: 5%;
     background-color: #1F2937;
+    padding-top:0;
 }
