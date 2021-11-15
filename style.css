@@ -1,9 +1,6 @@
 body {
     display:flex;
     flex-direction:column;
-    font-family:hero, sans-serif;
-    font-style:normal;
-    font-weight:light;
 }
 header {
     display:flex;
