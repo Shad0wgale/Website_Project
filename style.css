@@ -56,6 +56,7 @@ header {
     align-items: center;
     margin: 5%;
     background-color: blue;
+    border-radius:10px;
 }
 
 .footer {
@@ -87,6 +88,7 @@ a {
 .boximg {
     height:100px;
     width:auto;
+    border-radius:10px;
 }
 
 .imginfo {
