@@ -94,6 +94,8 @@ a {
     width:auto;
     border-radius:10px;
     flex:1 0 auto;
+    border-style:solid;
+    border-color:#3882F6;
 }
 
 .imginfo {
